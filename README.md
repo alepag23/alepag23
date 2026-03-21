@@ -1,8 +1,8 @@
 <h1 align="center">Alessandro Pagliuca</h1>
 
 <p align="center">
-  Software Developer · Transitioning to Backend & Cloud<br/>
-  Frontend background · Currently learning Go + AWS
+  Software Engineer · Backend & Cloud<br/>
+  Frontend background · Transitioning to Backend & Cloud
 </p>
 
 ###
@@ -10,8 +10,7 @@
 <h2 align="left">🚀 Currently Building</h2>
 
 <p align="left">
-  Transitioning from Frontend to Backend & Cloud Development.<br/>
-  Learning path: <strong>Go · AWS Developer Associate · Docker · PostgreSQL</strong>
+  Learning path: <strong>NestJS · AWS Developer Associate · PostgreSQL</strong>
 </p>
 
 ###
@@ -21,13 +20,23 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="go logo" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="30" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="aws logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo" />
+</div>
+
+###
+
+<h2 align="left">🔍 Exploring</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="go logo" />
 </div>
 
 ###
