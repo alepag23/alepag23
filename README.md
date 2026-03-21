@@ -1,7 +1,7 @@
 <h1 align="center">Alessandro Pagliuca</h1>
 
 <p align="center">
-  Software Engineer · Backend & Cloud<br/>
+  Software Developer · Backend & Cloud<br/>
   Frontend background · Transitioning to Backend & Cloud
 </p>
 
