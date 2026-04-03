@@ -35,10 +35,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="go logo" />
-</div>
-
 ###
 
 <h2 align="left">📦 Frontend Background</h2>
