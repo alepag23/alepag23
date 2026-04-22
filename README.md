@@ -1,8 +1,7 @@
 <h1 align="center">Alessandro Pagliuca</h1>
 
 <p align="center">
-  Frontend Developer <br/>
-  Exploring backend & cloud
+  Frontend Developer · Exploring backend & cloud
 </p>
 
 ###
