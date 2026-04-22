@@ -1,8 +1,8 @@
 <h1 align="center">Alessandro Pagliuca</h1>
 
 <p align="center">
-  Software Developer · Backend & Cloud<br/>
-  Frontend background · Transitioning to Backend & Cloud
+  Frontend Developer <br/>
+  Exploring backend & cloud
 </p>
 
 ###
@@ -15,7 +15,21 @@
 
 ###
 
-<h2 align="left">⚙️ Current Stack</h2>
+<h2 align="left">📦 Frontend skills</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="30" alt="angular logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo" />
+</div>
+
+###
+
+<h2 align="left">🔍 Exploring</h2>
 
 ###
 
@@ -27,30 +41,6 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="aws logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo" />
-</div>
-
-###
-
-<h2 align="left">🔍 Exploring</h2>
-
-###
-
-<p align="left">
-  ...
-</p>
-
-###
-
-<h2 align="left">📦 Frontend Background</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="30" alt="angular logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo" />
 </div>
 
 ###
