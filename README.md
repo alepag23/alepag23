@@ -9,7 +9,7 @@
 <h2 align="left">🚀 Currently Building</h2>
 
 <p align="left">
-  Learning path: <strong>NestJS · AWS Developer Associate · PostgreSQL</strong>
+  Learning path: <strong>Golang · AWS Developer Associate · PostgreSQL</strong>
 </p>
 
 ###
@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="30" alt="nestjs logo" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="go logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="aws logo" />
   <img width="12" />
