@@ -6,13 +6,6 @@
 
 ###
 
-<h2 align="left">🚀 Currently Building</h2>
-<p align="left">
-  <strong>NestJS</strong> &nbsp;·&nbsp; <strong>AWS Developer Associate</strong> &nbsp;·&nbsp; <strong>PostgreSQL</strong>
-</p>
-
-###
-
 <h2 align="left">📦 Frontend</h2>
 
 <div align="left">
@@ -31,16 +24,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="28" alt="nodejs" />
   <img width="8" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="28" alt="postgresql" />
-</div>
-
-###
-
-<h2 align="left">🔍 Exploring</h2>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="28" alt="nestjs" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="28" alt="aws" />
 </div>
 
 ###
