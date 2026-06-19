@@ -1,7 +1,7 @@
 <h1 align="center">Alessandro Pagliuca</h1>
 
 <p align="center">
-  <code>Software Developer</code>
+  <code>Frontend Developer</code>
 </p>
 
 ###
