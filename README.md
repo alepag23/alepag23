@@ -1,5 +1,3 @@
-<h1 align="center">Alessandro Pagliuca</h1>
-
 <p align="center">
   <code>Frontend Developer</code>
 </p>
