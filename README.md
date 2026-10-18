@@ -1,6 +1,16 @@
 <p align="center">
-  <code>Frontend Developer</code>
+  <code>Software Developer</code>
 </p>
+
+###
+
+<h2 align="left">⚙️ Backend</h2>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="28" alt="nodejs" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="28" alt="postgresql" />
+</div>
 
 ###
 
@@ -12,16 +22,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="28" alt="typescript" />
   <img width="8" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28" alt="javascript" />
-</div>
-
-###
-
-<h2 align="left">⚙️ Backend</h2>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="28" alt="nodejs" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="28" alt="postgresql" />
 </div>
 
 ###
